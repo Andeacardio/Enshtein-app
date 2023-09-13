@@ -1,0 +1,1864 @@
+[
+  {
+    "id": 1,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxgUG3edwrF59092T41gnfoZeeLw29ML44bFWUdGFEKcAcbmlHwr9LhPuZwL3fxJCExtA&usqp=CAU",
+    "name": "Math part 1",
+    "questions": [
+      {
+        "id": 1,
+        "text": "8 ÷ 2(2 + 2)",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "16",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "24",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "sqrt(64) * 9",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "81",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "72",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "144",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "3 + 3 x 3 ÷ 3 - 3",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "9",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "What is the highest common factor of the numbers 30 and 132?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "162",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "102",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Our measurement of time is based on which number system? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Number System",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "The Sexagesimal System",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "The Sexagesimal Number System",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "System",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "123+4-5+67-89 = ? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "60",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "162",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "100",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "From the number 0 to the number 1000, the letter “A” appears only in? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "8000",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "10000",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "100",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "1000 (One Thousand)",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "If 1=3, 2=3, 3=5, 4=4, and 5=4, what is 6=? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "333",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "27",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "9",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Which number is the equivalent to 3^(4)/3^(2)? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "9",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "90",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Using only the process of addition, how to add eight 8’s to get the final number of 1000? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "888+88=1000 ",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "888+88+8+8=1000 ",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "888+88+8+8+8=1000 ",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "88+8+8+8=1000 ",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://img.freepik.com/free-photo/abstract-biology-small-cell-multiplying-high-scale-magnification-generated-by-ai_188544-9764.jpg",
+    "name": "Biology part 1",
+    "questions": [
+      {
+        "id": 1,
+        "text": "The Kreb Cycles occurs in the",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Mitochondria",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Nucleus",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Rough ER",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Cystol",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "How many oxygen molecules can hemoglobin hold",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "4",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "The cones see ___ while the rods see ___",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "black and white; color",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "color; black and white",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3D objects; 2D shapes",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "2D shapes; 3D objects",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Where is the femur located?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "The nigh",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "The thigh",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "The sun",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "What is the most common blood group in the UK?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Blood Group 1",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Blood Group O",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Blood Group 2",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hlbWlzdHJ5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "name": "Chemistry part 1",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the composition of table salt",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "NaCl",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "K2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "NaCl2C4H7",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "CH4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "What is Potassium's chemical symbol",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "P",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Pt",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Pts",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "K",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Which is not organinc",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "CH4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "NaCl",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "C2H6",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "C3H8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": " When a beam of white rays is dispersed by a prism which colour will be refracted to a larger extent?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Red",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Violet",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Water",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Air",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": " The modern atomic mass unit is based on ____",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Carbon-10",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Carbon-12",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Carbon-1",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Carbon-11",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": " A raincoat is made of what?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Polychloroethene",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Water",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Carbon-1",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPcKxEH028N6OkwAbWD4vQWFf_fap5DI6mZQ&usqp=CAU",
+    "name": "Math part 2",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the year 1982 in Roman Numerals?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "MCMLXXXII",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "MCMLXXX",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "MLXXXII",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "CMLXXXII",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "What is next in the following number series: 256, 289, 324, 361 . . . ?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "500",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "81",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "400",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "441",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "What is the value of Pi to four individual decimal places?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3.1416",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3.14",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "2.1416",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "13.1416",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "What does 6 raise to the power of 0 equal?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "0",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "What is the name of a triangle that has two sides of the same length? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "System",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Isosceles ",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Farengate",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "It-tecnology",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "How many vertices are present on a cube?  ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "An object is thrown into the air. After a while, it falls back to the Earth. The flight path of the object traces what shape? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "A line",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "A cube",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "A curcle",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "A parabola",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Adding the numbers between 1 to 100 consecutively (1+2+3+4+…) gives you what final answer? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "5000",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "5050",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "10000",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "-1.43, 1 >, 3/14, .09, and 5,643.1 have one thing in common. What is that?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "These numbers are not integers.",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "190",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Solve the following equation: -15 + (-5x)=0. ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "5",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3 ",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "-3  ",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "0 ",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "img": "https://www.fife.ac.uk/media/3828/mathematics-png.jpg?anchor=center&mode=crop&width=1200&height=800&rnd=132155248940000000",
+    "name": "Math part 3",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the year 1982 in Roman Numerals?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "MCMLXXXII",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "MCMLXXX",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "MLXXXII",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "CMLXXXII",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "What is next in the following number series: 256, 289, 324, 361 . . . ?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "500",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "81",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "400",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "441",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "What is the value of Pi to four individual decimal places?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3.1416",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3.14",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "2.1416",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "13.1416",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "What does 6 raise to the power of 0 equal?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "1",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "0",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "What is the name of a triangle that has two sides of the same length? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "System",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Isosceles ",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Farengate",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "It-tecnology",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "How many vertices are present on a cube?  ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "8",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "An object is thrown into the air. After a while, it falls back to the Earth. The flight path of the object traces what shape? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "A line",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "A cube",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "A curcle",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "A parabola",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Adding the numbers between 1 to 100 consecutively (1+2+3+4+…) gives you what final answer? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "5000",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "5050",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "2000",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "10000",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "-1.43, 1 >, 3/14, .09, and 5,643.1 have one thing in common. What is that?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "These numbers are not integers.",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "12",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "190",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Solve the following equation: -15 + (-5x)=0. ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "5",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3 ",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "-3  ",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "0 ",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "img": "https://leverageedublog.s3.ap-south-1.amazonaws.com/blog/wp-content/uploads/2019/09/23165019/Biology.jpg",
+    "name": "Biology part 2",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the natural compound present in green plants that gives them their colour?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Chlorophyll",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "tree",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "moon",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "flor",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Where would one find the smallest bone in the human body?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "The horse",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "The bear",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "The ear",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "The bird",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Which organ remove wastes and extra fluid from your body?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "The kidneys",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "The Sidneys",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "The neys",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "kidney",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "What is the biggest animal on the planet?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "The Blue Whale",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "spider",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "mouse",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "horse",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "What hormone regulates blood sugar levels by allowing cells to absorb and use glucose for energy? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Water",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Insulin ",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Farengate",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Spirt",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "What is the largest muscle in the human body?  ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Foot",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Hand",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Gluteus maximus",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Stomach",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "A gamete is a reproductive cell. True or false? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "false",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "true",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "img": "https://img.freepik.com/free-photo/beautiful-fertility-concept-3d-rendering_23-2149230687.jpg",
+    "name": "Biology part 3",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the natural compound present in green plants that gives them their colour?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Chlorophyll",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "tree",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "moon",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "flor",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Where would one find the smallest bone in the human body?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "The horse",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "The bear",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "The ear",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "The bird",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Which organ remove wastes and extra fluid from your body?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "The kidneys",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "The Sidneys",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "The neys",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "kidney",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "What is the biggest animal on the planet?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "The Blue Whale",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "spider",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "mouse",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "horse",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "What hormone regulates blood sugar levels by allowing cells to absorb and use glucose for energy? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Water",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Insulin ",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Farengate",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Spirt",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "What is the largest muscle in the human body?  ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Foot",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Hand",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Gluteus maximus",
+            "isCorrect": true
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Stomach",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "A gamete is a reproductive cell. True or false? ",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "false",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "true",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "img": "https://images.unsplash.com/photo-1628863353691-0071c8c1874c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y2hlbWlzdHJ5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "name": "Chemistry part 2",
+    "questions": [
+      {
+        "id": 1,
+        "text": "What is the value of Planck’s constant in SI units?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6.625 x 10’34 Is",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3.625 x 10’34 Is",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "6.625 x 5’34 Is",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "6.625 x 2’34 Is",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "The total number of electrons present in 18 ml of water is ____",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "6.02 × 24",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "3.02 × 1024",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "16.02 × 1024",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "6.02 × 1024",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Which is not organinc",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "CH4",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "NaCl",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "C2H6",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "C3H8",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "text": " When a beam of white rays is dispersed by a prism which colour will be refracted to a larger extent?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Red",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Violet",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Water",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Air",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "text": " The modern atomic mass unit is based on ____",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Carbon-10",
+            "isCorrect": false
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Carbon-12",
+            "isCorrect": true
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Carbon-1",
+            "isCorrect": false
+          },
+          {
+            "id": 4,
+            "label": "D",
+            "text": "Carbon-11",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "text": " A raincoat is made of what?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "Polychloroethene",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "Water",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "Carbon-1",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "text": " What is the velocity of light in m/s?",
+        "options": [
+          {
+            "id": 1,
+            "label": "A",
+            "text": "3 x 108 m/s",
+            "isCorrect": true
+          },
+          {
+            "id": 2,
+            "label": "B",
+            "text": "13 x 108 m/s",
+            "isCorrect": false
+          },
+          {
+            "id": 3,
+            "label": "C",
+            "text": "3 x 8 m/s",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+]
